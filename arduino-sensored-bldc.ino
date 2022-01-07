@@ -1,6 +1,6 @@
-#define hall1 1 //A3 Int3
-#define hall2 0 //A2 Int2
-#define hall3 2 //A1 Int1
+#define hall1 1 //Int3
+#define hall2 0 //Int2
+#define hall3 2 //Int1
 int stepstate;
 bool hall1state;
 bool hall2state;
